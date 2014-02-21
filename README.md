@@ -24,3 +24,4 @@ example
 
         ResTable res(resources_content_bin, resources_content_bin_len, resources_content_bin);
         std::vector<std::string> * label_vec = res.getLabel(true, arsc_index);
+
